@@ -54,5 +54,5 @@ button.setOnClickListener(new OnClickListener() {
 
  [1]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample1.png
  [2]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample2.png
- [3]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample2.png
- [4]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample2.png
+ [3]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample3.png
+ [4]: https://github.com/downloads/herroWorld/FlipAnimation/flipAnimationExample4.png
