@@ -7,7 +7,7 @@ This class extends the Animation class and provide extra APIs to perform a horiz
 
 ![3] -> ![4]
 
-**Download:** [JAR library](https://github.com/downloads/herroWorld/FlipAnimation/flipanimation_1.0.jar)
+**Download:** [JAR library](https://github.com/downloads/herroWorld/FlipAnimation/flipanimation_v1.0.jar)
 
 ## Usage
 When using this library, simply add the JAR to your project:
