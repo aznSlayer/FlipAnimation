@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">FlipAnimationExample</string>
+    <string name="title_activity_flip_animation_example">FlipAnimationExample</string>
+    <string name="button_text">Flip</string>
+
+</resources>
